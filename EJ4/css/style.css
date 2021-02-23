@@ -1,0 +1,37 @@
+body {
+    background-color: gray;
+}
+
+.main_container {
+    width: 80%;
+    background-color: white;
+}
+
+button {
+    border: none;
+    background-color: rgb(241, 239, 239);
+}
+
+nav {
+    background-color: rgb(241, 239, 239);
+}
+
+.jumbotron {
+    padding: 50px;
+    background-color: rgb(241, 239, 239);
+}
+
+.nav-item {
+    margin-right: 10px;
+    align-items: center;
+}
+
+.nav-item :active {
+    background-color: white;
+    color: black;
+}
+
+.bt {
+    margin-left: 5px;
+    background-color: rgb(221, 216, 216);
+}

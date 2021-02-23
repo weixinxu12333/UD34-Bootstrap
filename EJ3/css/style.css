@@ -1,0 +1,23 @@
+.main_container {
+    width: 100%;
+    background-color: rgb(241, 239, 239);
+}
+
+button {
+    border: none;
+    background-color: rgb(241, 239, 239);
+}
+
+nav {
+    background-color: aqua;
+}
+
+.nav-item :active {
+    background-color: white;
+    color: black;
+}
+
+.btn {
+    margin-right: 5px;
+    background-color: white;
+}

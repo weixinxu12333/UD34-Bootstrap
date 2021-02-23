@@ -1,0 +1,50 @@
+.main_container {
+    width: 80%;
+    padding: 50px;
+}
+
+h1 {
+    color: blue;
+    margin-bottom: 40px;
+}
+
+select {
+    width: 20%;
+}
+
+table {
+    width: 100%;
+}
+
+table, th, tr, td {
+    padding: 20px;
+    border: 1px solid rgba(128, 128, 128, 0.555);
+}
+
+tr:nth-child(even) {
+    background-color: rgba(211, 205, 205, 0.555);
+}
+
+button {
+    float: right;
+    border: none;
+    background-color: transparent;
+}
+
+.btn {
+    float: left;
+}
+
+.rig {
+    float: right;
+}
+
+.btn:active {
+    background-color: blue;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+.btn-info{
+    color: white;
+}
